@@ -1,0 +1,11 @@
+body {
+ background: #FFFAAA;
+ background-image:url("../images/alta-temperatura.jpg");
+background-repeat: no-repeat;
+background-position: 0 0;
+background-size: cover;
+}
+
+h1, #p, #s {
+  color: #FFFAAA;
+}
